@@ -5,3 +5,4 @@
 -->
 
 #### I`m a Technician programmer in continuous training. 
+#### At this moment I am studying the Máster en Programación y Diseño de Software en Escuela IT.
